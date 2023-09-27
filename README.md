@@ -1,8 +1,9 @@
-
 # Movie App
-Movie app made in Flutter with clean architecture using BLoC, Hive and the movie db API.
+
+Movie library app made in Flutter with clean architecture using BLoC, Hive and the movie db API.
 
 ## Features
+
 - Search feature
 - Watchlist feature
 - Now playing movies
@@ -19,8 +20,8 @@ Movie app made in Flutter with clean architecture using BLoC, Hive and the movie
 - Similar tv shows
 - TV show season details
 
-
 ## Screenshots
+
 <p>
   <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/01.png" width="250" />
   <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/02.png" width="250" />
@@ -33,25 +34,34 @@ Movie app made in Flutter with clean architecture using BLoC, Hive and the movie
 </p>
 
 ## Installation
+
 ### 1. Clone the repo
+
 ```bash
 git clone https://github.com/mohamadayash22/flutter-movie-app.git
 cd flutter-movie-app
 ```
+
 ### 2. Run pub get
+
 ```bash
 flutter pub get
 ```
+
 ### 3. Add your API key into api_constants file
+
 ```bash
 apiKey = 'YOUR_API_KEY';
 ```
+
 ### 4. Run the app
-```bash 
+
+```bash
 flutter run
 ```
 
 ## Packages
+
 - [cached_network_image](https://pub.dev/packages/cached_network_image)
 - [carousel_slider](https://pub.dev/packages/carousel_slider)
 - [cupertino_icons](https://pub.dev/packages/cupertino_icons)
@@ -70,8 +80,9 @@ flutter run
 - [shimmer](https://pub.dev/packages/shimmer)
 - [stream_transform](https://pub.dev/packages/stream_transform)
 - [url_launcher](https://pub.dev/packages/url_launcher)
-
+- [flutter-launcher-icons](https://pub.dev/packages/flutter_launcher_icons)
 
 ## Acknowledgements
-This app is based on 
+
+This app is part of my learning progress for building cross platform applications using flutter
 [Build a Movie App - FlutterFlow](https://www.youtube.com/watch?v=ZPkVRoa1AA8) YouTube video by [@abuanwar072](https://github.com/abuanwar072/), special thanks to Abu Anwar for his amazing videos and tutorials!
