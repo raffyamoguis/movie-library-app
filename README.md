@@ -81,6 +81,7 @@ flutter run
 - [stream_transform](https://pub.dev/packages/stream_transform)
 - [url_launcher](https://pub.dev/packages/url_launcher)
 - [flutter-launcher-icons](https://pub.dev/packages/flutter_launcher_icons)
+- [rename](https://pub.dev/packages/rename)
 
 ## Acknowledgements
 
