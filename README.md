@@ -36,8 +36,8 @@ Movie library app made in Flutter with clean architecture using BLoC, Hive and t
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/mohamadayash22/flutter-movie-app.git
-cd flutter-movie-app
+git clone https://github.com/raffyamoguis/movie-library-app.git
+cd movie-library-app
 ```
 
 ### 2. Run pub get
