@@ -80,8 +80,3 @@ flutter run
 - [url_launcher](https://pub.dev/packages/url_launcher)
 - [flutter-launcher-icons](https://pub.dev/packages/flutter_launcher_icons)
 - [rename](https://pub.dev/packages/rename)
-
-## Acknowledgements
-
-This app is part of my learning progress for building cross platform applications using flutter
-[Build a Movie App - FlutterFlow](https://www.youtube.com/watch?v=ZPkVRoa1AA8) YouTube video by [@abuanwar072](https://github.com/abuanwar072/), special thanks to Abu Anwar for his amazing videos and tutorials!
