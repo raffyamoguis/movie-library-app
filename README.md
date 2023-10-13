@@ -1,4 +1,4 @@
-# Movie App
+# Movie Library App
 
 Movie library app made in Flutter with clean architecture using BLoC, Hive and the movie db API.
 
@@ -23,12 +23,12 @@ Movie library app made in Flutter with clean architecture using BLoC, Hive and t
 ## Screenshots
 
 <p>
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/01.png" width="250" />
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/02.png" width="250" />
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/03.png" width="250" />
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/04.png" width="250" />
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/05.png" width="250" />
-  <img src="https://github.com/mohamadayash1/flutter-movie-app/blob/main/screenshots/06.png" width="250" />
+  <img src="https://github.com/raffyamoguis/movie-library-app/blob/main/screenshots/01.png" width="250" />
+  <img src="https://github.com/raffyamoguis/movie-library-app/blob/main/screenshots/02.png" width="250" />
+  <img src="https://github.com/raffyamoguis/movie-library-app/blob/main/screenshots/03.png" width="250" />
+  <img src="https://github.com/raffyamoguis/movie-library-app/blob/main/screenshots/04.png" width="250" />
+  <img src="https://github.com/raffyamoguis/movie-library-app/blob/main/screenshots/05.png" width="250" />
+  <img src="https://github.com/raffyamoguis/movie-library-app/blob/main/screenshots/06.png" width="250" />
 </p>
 
 ## Installation
@@ -36,8 +36,8 @@ Movie library app made in Flutter with clean architecture using BLoC, Hive and t
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/mohamadayash22/flutter-movie-app.git
-cd flutter-movie-app
+git clone https://github.com/raffyamoguis/movie-library-app.git
+cd movie-library-app
 ```
 
 ### 2. Run pub get
